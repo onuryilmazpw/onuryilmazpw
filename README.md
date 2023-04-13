@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onuryilmazpw
-- 🔭 I’m currently working on [Basic Social Media](https://github.com/onuryilmazpw/basic-social-media)
-- 👀 I’m interested in Python&Django
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on [OUA-GameJAM-U20](https://github.com/onuryilmazpw/OUA-GameJAM-U20)
+- 👀 I’m interested in Unity & Game Design
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me [Linkedln](https://www.linkedin.com/in/onuryilmazpw/)
 
 <!---
